@@ -3,3 +3,9 @@ greg:
   last_name: "Lyon"
   email: "lyon.greg@gmail.com"
   profile_name: "greglyon"
+
+nancy:
+  first_name: "Nance"
+  last_name: "Pelosi"
+  email: "nancy@pelosi.com"
+  profile_name: "nancytheboss"
