@@ -3,7 +3,6 @@ class CreateStatuses < ActiveRecord::Migration
     create_table :statuses do |t|
       t.string :name
       t.string :content
-      t.string :text
 
       t.timestamps
     end
